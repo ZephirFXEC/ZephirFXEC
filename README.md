@@ -2,9 +2,9 @@
 
 # Enzo Crema
 
-### C++ · ML · Sparse Volumes · GPU 
+### C++ · ML · GPU 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&center=true&vCenter=true&width=720&lines=Software+Engineer+%40+AWS;Graphics+%2F+Physics+Programming;C%2B%2B+%7C+CUDA+%7C+Vulkan+%7C+OpenVDB;Building+tools+for+simulation%2C+rendering%2C+and+volume+data" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&center=true&vCenter=true&width=720&lines=Software+Engineer+%40+AWS;" alt="Typing SVG" />
 
 <br />
 
